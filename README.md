@@ -42,9 +42,9 @@ Nos últimos anos, atuei em projetos escaláveis, com foco em performance, acess
 ---
 ### 📊 Estatísticas do GitHub
 
-<div style="display: flex; justify-content: center; flex-wrap: nowrap;">
-    <img style="margin-right: 10px;" height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=yasminxs3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminxs3&layout=compact&langs_count=7&theme=tokyonight"/>
+<div style="display: flex iImportant; justify-content: center; flex-wrap: nowrap;">
+    <img style="margin-right: 10px;" height="172em" width="400" src="https://github-readme-stats.vercel.app/api?username=yasminxs3&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br&border_radius=8"/>
+    <img height="165em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminxs3&layout=compact&langs_count=7&theme=radical&locale=pt-br&border_radius=8"/>
 </div>
 
 ---
