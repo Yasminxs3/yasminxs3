@@ -44,7 +44,7 @@ Nos últimos anos, atuei em projetos escaláveis, com foco em performance, acess
 
 <p align="center">
   <img width="48%" height="200" src="https://github-readme-stats.vercel.app/api?username=yasminxs3&show_icons=true&theme=tokyonight" />
-  <img width="48%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminxs3&layout=compact&theme=tokyonight&card_width=310" />
+  <img width="48%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminxs3&layout=compact&theme=tokyonight&card_width=320" />
 </p>
 
 ---
