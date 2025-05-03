@@ -36,7 +36,9 @@ Nos últimos anos, atuei em projetos escaláveis, com foco em performance, acess
 ---
 ### 📊 Estatísticas do GitHub
 
-![Yasmin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasminxs3s&show_icons=true&theme=tokyonight)
+![Yasmin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasminxs3&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminxs3&layout=compact&theme=tokyonight)
+
 
 ---
 ### 🌐 Links importantes
