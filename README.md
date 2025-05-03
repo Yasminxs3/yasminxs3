@@ -23,18 +23,26 @@ Nos últimos anos, atuei em projetos escaláveis, com foco em performance, acess
 
 ### 🛠️ Tecnologias que uso no dia a dia
 
-**Front-end:** Vue.js · Nuxt.js · React · TailwindCSS · Shadcn  
-**Back-end:** Node.js · Nest.js  
-**Banco de dados:** PostgreSQL · MongoDB  
-**Outros:** Docker · AWS (S3, EC2, CloudFront - familiaridade) · Redis · Cypress · CI/CD
+![Vue](https://img.shields.io/badge/-Vue-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 
 ---
+### 📊 Estatísticas do GitHub
 
+![Yasmin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasminxs3s&show_icons=true&theme=tokyonight)
+
+---
 ### 🌐 Links importantes
 
-🔗 [Portfólio](https://portfolio-yasminxs3s-projects.vercel.app/)  
-💼 [LinkedIn](https://www.linkedin.com/in/yasmin-silva-x)  
-🧪 [Projetos principais](https://github.com/yasminxs3s?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-silva-x)  
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-yasminxs3s-projects.vercel.app/)
 
 ---
 
