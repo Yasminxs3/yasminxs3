@@ -1,11 +1,11 @@
-# 👩‍💻 Yasmin Silva
+# Yasmin Silva
 
 Sou desenvolvedora front-end com experiência prática em Vue, Nuxt, React e Node.js.  
 Nos últimos anos, atuei em projetos escaláveis, com foco em performance, acessibilidade, testes automatizados e código limpo.
 
 ---
 
-### 💼 O que entrego
+### O que entrego
 
 ✅ Interfaces modernas, acessíveis e responsivas  
 ✅ Boas práticas com testes, versionamento e documentação  
@@ -14,14 +14,14 @@ Nos últimos anos, atuei em projetos escaláveis, com foco em performance, acess
 
 ---
 
-### 🎯 Foco atual
+### Foco atual
 
 - Reforçando estrutura de dados, arquitetura e design patterns  
 - Evoluindo projetos próprios com foco em escalabilidade e qualidade técnica  
 
 ---
 
-### 🛠️ Tecnologias que uso no dia a dia
+### Tecnologias que uso no dia a dia
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -40,7 +40,7 @@ Nos últimos anos, atuei em projetos escaláveis, com foco em performance, acess
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <div style="display: flex iImportant; justify-content: center; flex-wrap: nowrap;">
     <img style="margin-right: 10px;" height="172em" width="400" src="https://github-readme-stats.vercel.app/api?username=yasminxs3&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br&border_radius=8"/>
@@ -48,14 +48,14 @@ Nos últimos anos, atuei em projetos escaláveis, com foco em performance, acess
 </div>
 
 ---
-### 🌐 Links importantes
+### Links importantes
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-silva-x)  
 [![Portfólio](https://img.shields.io/badge/-Portfólio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-yasminxs3s-projects.vercel.app/)
 
 ---
 
-### 📬 Aberta a oportunidades
+### Aberta a oportunidades
 
 Estou disponível para novos desafios.  
 Busco atuar em equipes que valorizam qualidade técnica, boas práticas e crescimento contínuo.
